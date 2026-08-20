@@ -1,2 +1,2 @@
-# curriculae
-Managing learning through academic structure.
+# Curriculae
+Personal curriculum management for self-learning.
