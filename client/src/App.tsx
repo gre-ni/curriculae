@@ -1,7 +1,12 @@
 import "./App.css";
+import { SemesterBar } from "./components/SemesterBar";
 
 function App() {
-    return <></>;
+    return (
+        <>
+            <SemesterBar />
+        </>
+    );
 }
 
 export default App;
